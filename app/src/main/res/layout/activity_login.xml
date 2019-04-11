@@ -4,7 +4,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:gravity="center">
+    android:gravity="center"
+    android:background="@color/cardview_dark_background"
+    >
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -36,6 +38,7 @@
             android:id="@+id/idRegistroLogin"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/boton_circular"
             android:hint="Registrarse"/>
     </LinearLayout>
 </LinearLayout>
