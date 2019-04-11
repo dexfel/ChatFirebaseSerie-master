@@ -28,17 +28,20 @@
         android:id="@+id/idLoginLogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="Login"/>
+        android:background="@drawable/boton_circular"
+        android:hint="INGRESAR"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center|bottom"
-        android:layout_weight="1">
+        android:layout_weight="1"
+        android:gravity="center|bottom">
+
         <Button
             android:id="@+id/idRegistroLogin"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/boton_circular"
-            android:hint="Registrarse"/>
+            android:hint="REGISTRATE" />
     </LinearLayout>
 </LinearLayout>
