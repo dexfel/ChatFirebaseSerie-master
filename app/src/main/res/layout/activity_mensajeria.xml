@@ -8,7 +8,7 @@
     tools:context="com.example.services.chat.Activity.MensajeriaActivity"
     android:padding="5sp"
     android:orientation="vertical"
-    android:background="@drawable/android2">
+    android:background="@drawable/oreo">
 
     <LinearLayout
         android:layout_width="match_parent"
