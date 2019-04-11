@@ -54,6 +54,7 @@
                 android:id="@+id/txtFechaDeNacimiento"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_date"
                 android:hint="Fecha de nacimiento"
                 android:inputType="date"
                 android:clickable="true"
