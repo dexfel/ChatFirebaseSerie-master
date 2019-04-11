@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665259458953",
+    "firebase_url": "https://fir-b120a.firebaseio.com",
+    "project_id": "fir-b120a",
+    "storage_bucket": "fir-b120a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665259458953:android:5cc715d007eabdd3",
+        "android_client_info": {
+          "package_name": "com.example.services.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665259458953-1pao8n4330q7l5qfefsikttimlq74pt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDRE-DvWnAggXhLvgQGiovbWje3lUmSr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665259458953-1pao8n4330q7l5qfefsikttimlq74pt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
